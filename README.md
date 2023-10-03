@@ -4,5 +4,3 @@
 <a href="https://github.com/sorenjuul">
   <img height=200 align="center" src="https://github-readme-stats-sorenjuul.vercel.app/api/top-langs/?username=sorenjuul&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-https://github-readme-stats-sorenjuul.vercel.app/
